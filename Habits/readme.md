@@ -1,7 +1,5 @@
 <h1 align="center"> Habits </h1>
 
-
-
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -17,7 +15,6 @@
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
-
 - HTML e CSS
 - JavaScript
 - Git e Github
@@ -26,6 +23,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 O Habits é um app para ajudar a rastrear os hábitos.
+
+- [Visite o projeto online](https://pamelasaiury.github.io/Habits)
+
 
 ## 🔖 Layout
 
